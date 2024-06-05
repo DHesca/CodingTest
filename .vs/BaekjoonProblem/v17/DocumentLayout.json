@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\lsy_0\\source\\repos\\BaekjoonProblem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1C47676-1EAA-42D3-A713-A2D8093E54EB}|BaekjoonProblem.vcxproj|C:\\Users\\lsy_0\\source\\repos\\BaekjoonProblem\\SourceCode\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B1C47676-1EAA-42D3-A713-A2D8093E54EB}|BaekjoonProblem.vcxproj|solutionrelative:SourceCode\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B1C47676-1EAA-42D3-A713-A2D8093E54EB}|BaekjoonProblem.vcxproj|C:\\Users\\lsy_0\\source\\repos\\BaekjoonProblem\\2480.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1C47676-1EAA-42D3-A713-A2D8093E54EB}|BaekjoonProblem.vcxproj|solutionrelative:2480.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\lsy_0\\source\\repos\\BaekjoonProblem\\SourceCode\\main.cpp",
-              "RelativeDocumentMoniker": "SourceCode\\main.cpp",
-              "ToolTip": "C:\\Users\\lsy_0\\source\\repos\\BaekjoonProblem\\SourceCode\\main.cpp",
-              "RelativeToolTip": "SourceCode\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Title": "2480.cpp",
+              "DocumentMoniker": "C:\\Users\\lsy_0\\source\\repos\\BaekjoonProblem\\2480.cpp",
+              "RelativeDocumentMoniker": "2480.cpp",
+              "ToolTip": "C:\\Users\\lsy_0\\source\\repos\\BaekjoonProblem\\2480.cpp",
+              "RelativeToolTip": "2480.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-04T08:23:48.132Z",
+              "WhenOpened": "2024-06-05T09:26:47.126Z",
               "EditorCaption": ""
             }
           ]
